@@ -1,0 +1,16 @@
+post_id,content,has_obscenity,severity_level,detected_words,recommended_action
+post_1,Ang ganda ng weather ngayon! Perfect for outdoor a...,False,CLEAN,,No action required
+post_2,Putang ina talaga ng traffic dito sa EDSA!,True,MEDIUM,putang,Flag for review or add content warning
+post_3,"Grabe ang gago ng boss ko, walang consideration sa...",True,MEDIUM,gago,Flag for review or add content warning
+post_4,"Masarap yung bagong restaurant sa mall, try niyo!",False,CLEAN,,No action required
+post_5,"Tang ina netong kapitbahay namin, ang ingay!",False,CLEAN,,No action required
+post_6,Bobo naman ng sistema dito sa government.,True,LOW,bobo,Monitor user activity
+post_7,I love this song! Napaka-ganda ng lyrics.,False,CLEAN,,No action required
+post_8,Ulol ka ba? Hindi mo naiintindihan yung sinasabi k...,True,LOW,ulol,Monitor user activity
+post_9,"Ang sarap ng lunch ko today, thanks sa nanay ko!",False,CLEAN,,No action required
+post_10,"Fck this sht, ang hirap ng exam kanina.",True,MEDIUM,"fck, sht",Flag for review or add content warning
+post_11,"Shunga naman ng prof namin, hindi marunong mag-exp...",True,LOW,shunga,Monitor user activity
+post_12,Beautiful sunset sa Boracay! Highly recommended.,False,CLEAN,,No action required
+post_13,"Pakyu ka talaga, hindi ka makakatakas sa akin!",True,MEDIUM,pakyu,Flag for review or add content warning
+post_14,"Ang cute ng baby ko, look at this picture!",False,CLEAN,,No action required
+post_15,Tanga ka ba? Obvious naman yung sagot dyan.,True,LOW,tanga,Monitor user activity
